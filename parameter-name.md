@@ -13,3 +13,4 @@
 * promoCode=UKONLY
 * promotion=UKONLY
 * bookingInfo=eyduYW1lJzonam9obicsICdkYXRlJzonMjAyMS0wOS0wMicsICdlbWFpbCc6J2pvaG5AZ21haWwuY29tJ30%3D
+* adToken=
